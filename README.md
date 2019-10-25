@@ -30,5 +30,5 @@ Not too bad!
 ![GitHub Logo](/Images/7.jpg)
 
 ### The Current State
-Before I stick the  moisture sensor in any soil, I'm going to want to make the top portion waterproof. I'll have plenty of time to decide how I want to do that while I start working on the software portion of this project...
+Before I stick the  moisture sensor in any soil, I'm going to want to make the top portion waterproof. I'll have plenty of time to decide how I want to do that while I start working on the web application portion of this project...
 ![GitHub Logo](/Images/8.jpg)
